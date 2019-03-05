@@ -1,0 +1,10 @@
+TestOne
+-FirstClass
+--firstAttribute string
+--secondAttribute null
+---firstMethod boolean
+newclass
+-SecondClass
+--anotherAttribute integer
+---otherMethod string
+---nextMethod  number
